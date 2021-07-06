@@ -37,7 +37,9 @@ If you have some interesting ideas, please raise an issue or invite me on a proj
 The science sector of neuroimaging is a huge field with little to non structure in data organizations (maybe not so bad but still).
 Please, if you won't to work on reproducable studies in neuroimaging have a look at [this](https://bids.neuroimaging.io/) if you not already know! 
 
-A good friend of mine worked on a solution for high data throughput, maybe you want to have a closer look on [this](https://github.com/wulms/BiDirect_BIDS_Converter)?
+A good friend of mine worked on a solution to get the BIDS structure into your dataset.
+It's a tool written in R with high data throughput.
+Maybe you want to have a closer look on [this](https://github.com/wulms/BiDirect_BIDS_Converter)?
 
 <!--
 **Vamillion/Vamillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
